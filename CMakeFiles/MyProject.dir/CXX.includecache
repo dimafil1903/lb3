@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dimafilipenko/CLionProjects/lb3/main.cpp
+Sd
+/Users/dimafilipenko/CLionProjects/lb3/Sd
+SDL2/SDL_image.h
+/Users/dimafilipenko/CLionProjects/lb3/SDL2/SDL_image.h
+

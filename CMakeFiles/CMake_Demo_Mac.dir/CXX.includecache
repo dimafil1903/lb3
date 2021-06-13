@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dimafilipenko/CLionProjects/lb3/main.cpp
+iostream
+/Users/dimafilipenko/CLionProjects/lb3/iostream
+program.h
+/Users/dimafilipenko/CLionProjects/lb3/program.h
+
+/Users/dimafilipenko/CLionProjects/lb3/program.h
+cstdio
+-
+cstdlib
+-
+unistd.h
+-
+cstring
+-
+cstdint
+-
+cmath
+-
+cstddef
+-
+GLFW/glfw3.h
+-
+
